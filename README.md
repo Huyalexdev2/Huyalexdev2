@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a roblox developer/Automation engineer<br>staff and developer of DR4GONS and SKsmp<br><br>main language: x86, c++/c, Java, Typescript, luau
+I'm a Automation engineer<br>staff and developer of DR4GONS and SKsmp<br><br>main language: x86, c++/c, Java, Typescript, luau
 
 
 ## 🌐 Socials:
